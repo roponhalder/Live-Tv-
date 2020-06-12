@@ -13,7 +13,7 @@ https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 http://starshare.cc:41000/tuhin9/tuhin9/406
 #EXTINF:0,Fox Life HD
 #EXTGRP:unsorted 
-http://starshare.cc:41000/tuhin9/tuhin9/2115
+#http://starshare.cc:41000/tuhin9/tuhin9/2115
 #EXTINF:0,ATN BANGLA
 #EXTGRP:unsorted
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8
